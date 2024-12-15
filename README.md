@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sathwik</h1>
-<h3 align="center">Enthusiastic and detail-oriented recent graduate with a strong foundation in frontend web development. Skilled in **HTML5, CSS3, JavaScript**, and modern frameworks like **React.js**. Proven ability to create responsive and user-centric web interfaces. I'm passionate about leveraging my skills to contribute to impactful projects.</h3>
+<h3 align="center">Enthusiastic and detail-oriented recent graduate with a strong foundation in frontend web development. Skilled in HTML5, CSS3, JavaScript, and modern frameworks like React.js. Proven ability to create responsive and user-centric web interfaces. I'm passionate about leveraging my skills to contribute to impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-sathwik&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-sathwik" /> </p>
 
