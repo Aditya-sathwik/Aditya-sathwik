@@ -1,36 +1,126 @@
-<h1 align="center">Hi 👋, I'm Aditya Sathwik</h1>
-<h3 align="center">Enthusiastic and detail-oriented recent graduate with a strong foundation in frontend web development. Skilled in HTML5, CSS3, JavaScript, and modern frameworks like React.js. Proven ability to create responsive and user-centric web interfaces. I'm passionate about leveraging my skills to contribute to impactful projects.</h3>
+<!-- ===================== PROFILE HEADER ===================== -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9A7&height=190&section=header&text=Aditya%20Sathwik&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Aditya Sathwik profile header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-sathwik&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-sathwik" /> </p>
+  <h3>Software Developer · React Native · React · TypeScript · Node.js</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-sathwik" alt="aditya-sathwik" /></a> </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=760&lines=Building+mobile+and+web+experiences;Turning+real-world+problems+into+software;Exploring+backend+engineering+and+system+design" alt="Typing introduction" />
 
-<p align="left"> <a href="https://twitter.com/adityasathwik" target="blank"><img src="https://img.shields.io/twitter/follow/adityasathwik?logo=twitter&style=for-the-badge" alt="adityasathwik" /></a> </p>
+  <p>
+    <a href="https://adityasathwik.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/aditya-sathwik">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:adityasathwikdasari@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/aditya-sathwik">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-- 🌱 I’m currently learning **Backend Development**
+  <img src="https://komarev.com/ghpvc/?username=aditya-sathwik&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://adityasathwik.vercel.app/](https://adityasathwik.vercel.app/)
+---
 
-- 💬 Ask me about **react,vue,nextjs**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **adityasathwikdasari@gmail.com**
+I'm a software developer focused on building **cross-platform mobile applications and modern web experiences**. My day-to-day toolkit revolves around React Native, React, JavaScript, and TypeScript, and I'm expanding my backend engineering skills with Node.js, Express, and PostgreSQL.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CFZv4D5iHlIbQ-l9QduZYEUs5N4V5zVa/view](https://drive.google.com/file/d/1CFZv4D5iHlIbQ-l9QduZYEUs5N4V5zVa/view)
+I enjoy working on practical engineering problems such as API integration, map-based experiences, offline-first workflows, local data storage, and reliable background synchronisation.
 
-- ⚡ Fun fact **I can debug code faster than I can decide what to eat for lunch! 🍕💻**
+- 📱 **Mobile:** Cross-platform apps with React Native CLI
+- 🌐 **Web:** Responsive applications with React and Next.js
+- ⚙️ **Backend:** REST APIs with Node.js, Express, and TypeScript
+- 🗄️ **Data:** PostgreSQL, MongoDB, MySQL, and SQLite
+- 🧭 **Interests:** Maps, location-aware apps, offline sync, and system design
+- 🎓 **Education:** B.Tech, Electronics and Communication Engineering — IIIT Haridwar (2024)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adityasathwik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityasathwik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-sathwik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sathwik" height="30" width="40" /></a>
-<a href="https://instagram.com/sathusathvi17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathusathvi17" height="30" width="40" /></a>
+## 🧰 Tech Stack
+
+### Mobile & Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Languages & Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-sathwik&show_icons=true&locale=en&layout=compact" alt="aditya-sathwik" /></p>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-sathwik&show_icons=true&locale=en" alt="aditya-sathwik" /></p>
+### Databases, Cloud & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-sathwik&" alt="aditya-sathwik" /></p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=222222" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=222222" alt="Linux" />
+</p>
+
+## 🚀 Things I Like Building
+
+| Area | What I enjoy working on |
+|---|---|
+| **Mobile engineering** | Smooth React Native experiences, native integrations, and app performance |
+| **Maps & location** | Map-based interfaces, route experiences, and location-aware features |
+| **Offline-first apps** | Local persistence, queued operations, retries, and background synchronisation |
+| **Backend engineering** | Type-safe APIs, database design, and maintainable service architecture |
+
+## 📌 Selected Projects
+
+- **AgriAssist** — A MERN-stack project focused on an agriculture-related user experience.
+- **Event Management System** — A web application built with Next.js and Appwrite.
+- **DMRC Momentum 2.0** — A project involving application and frontend development.
+- **Burger House** — A responsive food/restaurant web experience.
+
+Explore more on my **[portfolio](https://adityasathwik.vercel.app/)** and [GitHub repositories](https://github.com/aditya-sathwik?tab=repositories).
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditya-sathwik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Aditya's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sathwik&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <br />
+  <img width="70%" src="https://streak-stats.demolab.com?user=aditya-sathwik&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=aditya-sathwik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+</div>
+
+## 💭 Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
+</div>
+
+---
+
+<div align="center">
+  <h3>Thanks for stopping by! ✨</h3>
+  <p>Always learning. Always building. One commit at a time.</p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:243B55,100:141E30&height=100&section=footer" alt="Profile footer" />
+</div>
